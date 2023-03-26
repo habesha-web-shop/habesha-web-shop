@@ -2,7 +2,7 @@
 E-commerce for Habesha people
 
 # Features
-
+again updated
 1.	User registration……..5
 2.	Product catalog browsing and searching……4
 3.	Product detail pages with descriptions, images, and pricing….4
