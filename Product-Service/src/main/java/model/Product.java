@@ -7,4 +7,5 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Product {
     @Id
     private String id;
+    // 123
 }
